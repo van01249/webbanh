@@ -1,0 +1,1 @@
+<a href="{{route('send-to-mail',[$nguoidung->id,csrf_token()])}}">Xác nhận đăng kí tài khoản Cake Bakery</a>
